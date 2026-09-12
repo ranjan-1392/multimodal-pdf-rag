@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+data/pdfs/
+data/uploads/
+data/images/
+data/cache/
+data/embeddings/
+data/faiss/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
